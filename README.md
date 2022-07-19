@@ -1,6 +1,6 @@
-**Kenneth Green - Projects Portfolio**
+# Kenneth Green - Projects Portfolio
 
-<u>**Index**</u>
+## Index
 
 This repository holds all of my personal projects that I've completed
 
