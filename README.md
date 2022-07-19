@@ -6,7 +6,7 @@ This repository contains all of my personal projects that I've completed over th
 
 Each project is accompanied by some form of documentation. 
 
-##Background
+## Background
 
 Hello!
 
