@@ -1,4 +1,4 @@
-Kenneth Green - Projects Portfolio
+**Kenneth Green - Projects Portfolio**
 
 Index
 
