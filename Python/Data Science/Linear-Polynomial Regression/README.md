@@ -2,7 +2,7 @@
 
 ## Intro
 
-Enclosed is a Jupyter Notebook for a personal project involving linear regression. The idea is for the reader to gain an understanding of my thought process relatetd to building a statistical model.
+Enclosed is a Jupyter Notebook for a personal project involving linear regression. The idea is for the reader to gain an understanding of my thought process relatetd to building a statistical model, and less on the statisical model results.
 
 I have also included some rudimentary Exploratory Data Analysis within the notebook.
 
